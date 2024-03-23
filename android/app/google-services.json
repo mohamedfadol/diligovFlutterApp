@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "181277678733",
+    "project_id": "diligov",
+    "storage_bucket": "diligov.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181277678733:android:bfd8a12617d232cd7596c4",
+        "android_client_info": {
+          "package_name": "com.diligov.doc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181277678733-fphi7v1agfh0cmo33mc9lb5qvu7hutvp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diligov.doc",
+            "certificate_hash": "dea2c430a425041042f714e3c2ee6c6ec05255ff"
+          }
+        },
+        {
+          "client_id": "181277678733-abopibarl0tcu89k25d8trd3ugl4qqi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC8QHqRgmc1LzbRss_jnequ0boGeQmsh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181277678733-abopibarl0tcu89k25d8trd3ugl4qqi1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "181277678733-ohbahn7594900p3scofruvbi00djb25v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.diligov.doc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
